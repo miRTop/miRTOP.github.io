@@ -18,7 +18,7 @@ We encourage at least 2-3 authors per branch to ensure continuity of the project
 
 ## Code of conduct
 
-This group promotes inclusion and collaboration. Any hostile or disrespectful behaviors will not be accepted. We are doing this for science and for the community. Please, read the code of conduct. (TO BE UPDATED)
+This group promotes inclusion and collaboration. Any hostile or disrespectful behaviors will not be accepted. We are doing this for science and for the community. Please, read the code of conduct. (http://todogroup.org/opencodeofconduct/)
 
 ## Roles
 
