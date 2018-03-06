@@ -40,10 +40,19 @@ Future projects and discussions:
 *   Any other ideas or problems?
 
 ### Contributors:
+Lorena Pantano, Phd. Harvard TH Chan School of Public Health, Boston, USA
+Thomas Desvignes, Phd. Institute of Neuroscience, University of Oregon, Eugene, OR, USA
+John H. Postlethwait. Phd, Institute of Neuroscience, University of Oregon, Eugene, OR, USA
+Karen EIlbeck, Phd. University of Utah, Biomedical Informatics.
+Ioannis Vlachos, Phd. Brigham & Women's Hospital, Broad Institute of MIT and Harvard, Harvard Medical School
+Bastian Fromm, Phd. Department of Tumor Biology. Institute for Cancer Research. Norwegian Radium Hospital. Oslo University Hospital
+Marc K. Halushka, MD, Phd. Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, MD, USA
+H. Alexander Ebhardt Phd.Systems Biology Ireland, University College Dublin
+Michael Hackenberg, Phd. Bioinformatics Group. University of Granada.
+Gianvito Urgese, Phd. Politecnico di Torino, Italy
+Milad Bastami, PhD of Medical Genetics
+Sinan Uğur Umu PhD. Department of Research, Cancer Registry of Norway, Oslo, Norway.
+Shruthi Bandyadka. Partners Personalized Medicine, Cambridge MA.
 
-*   Lorena Pantano. Harvard TH Chan School of Public Health, Boston, USA
-*   Thomas Desvignes, Institute of Neuroscience, University of Oregon, Eugene, OR, USA
-*   John H. Postlethwait, Institute of Neuroscience, University of Oregon, Eugene, OR, USA
-*   Karen EIlbeck. University of Utah, Biomedical Informatics.
 
-
+### [History](History.md)
