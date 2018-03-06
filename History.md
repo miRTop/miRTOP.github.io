@@ -1,6 +1,6 @@
 ## March 2018
 
-* Week 5-9: Integrating [ROST tools](https://github.com/uoregon-postlethwait/prost) into miRTop command line
+* Week 5-9: Integrating [PROST tools](https://github.com/uoregon-postlethwait/prost) into miRTop command line
 
 ## February
 
