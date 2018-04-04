@@ -1,4 +1,8 @@
 
+## April 2018
+
+* week 2-6: Integrating PROST! output and updating synthetic data analysis.
+
 ## March 2018
 
 * week 26-30: Working on [benchmarking report](https://github.com/miRTop/incubator/tree/master/synthetic)
