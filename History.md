@@ -1,6 +1,7 @@
 
 ## April 2018
 
+* week 9-13: Fixing bugs in merge and stats thanks to @AlisR.
 * week 2-6: Integrating PROST! output and updating synthetic data analysis.
 
 ## March 2018
