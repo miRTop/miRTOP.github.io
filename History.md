@@ -1,6 +1,11 @@
 
+## May 2018
+
+* week 1-4: Sharing trimmed data. Fixing --add-extra for isomiR-SEA tool
+
 ## April 2018
 
+* week 23-27: Running data through bcbio to get trimmed data. Add extra attribute with Variants and nucleotides to allow better visual inspection.
 * week 9-13: Fixing bugs in merge and stats thanks to @AlisR.
 * week 2-6: Integrating PROST! output and updating synthetic data analysis.
 
