@@ -1,6 +1,7 @@
 
 ## May 2018
 
+* week 7-8: Running tewari data with sRNAbench, PROST and isomirSEA, preparing scripts for general stats for bcbio and miRge for pilot samples.
 * week 1-4: Sharing trimmed data. Fixing --add-extra for isomiR-SEA tool
 
 ## April 2018
