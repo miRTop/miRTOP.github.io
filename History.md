@@ -1,6 +1,8 @@
 
 ## May 2018
 
+* week 19-25: Working on commonality figures for bcbio and miRge for tewari data.
+* week 11-16: Fixing bugs when joining miRge GFF into one file
 * week 7-8: Running tewari data with sRNAbench, PROST and isomirSEA, preparing scripts for general stats for bcbio and miRge for pilot samples.
 * week 1-4: Sharing trimmed data. Fixing --add-extra for isomiR-SEA tool
 
