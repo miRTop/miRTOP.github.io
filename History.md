@@ -1,6 +1,12 @@
 
+## July 2018
+
+* week 9-11: adding compatibility with python 3
+
 ## June 2018
 
+* week 25-29: Documenting functions in devel branch.
+* week 17-22: Improving figure formats for tewari analysis.
 * week 11-14: Generating [replicates reproducibility figures]l(https://github.com/miRTop/incubator/tree/master/projects/tewari)
 * week 4-8: Generating [stats figures for each too]l(https://github.com/miRTop/incubator/tree/master/projects/tewari#for-each-tool-similarity-between-replicates-of-each-labprotocol)
 
