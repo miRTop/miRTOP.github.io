@@ -1,7 +1,8 @@
 
 ## July 2018
 
-* week 9-11: adding compatibility with python 3
+* week 16-20: discussing road map for 1/2 2018
+* week 9-13: adding compatibility with python 3
 
 ## June 2018
 
