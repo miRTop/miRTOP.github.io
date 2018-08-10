@@ -1,6 +1,11 @@
 
+## August 2018
+
+* week 6-10: first online meeting and plan for tewari re-analysis next steps. Starting the first draft for mirtop paper.
+
 ## July 2018
 
+* week 30-2: improving log in stats command to be compatible with multiqc
 * week 16-20: discussing road map for 1/2 2018
 * week 9-13: adding compatibility with python 3
 
