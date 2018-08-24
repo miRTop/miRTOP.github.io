@@ -1,6 +1,8 @@
 
 ## August 2018
 
+* week 20-24: vacation time
+* week 13-17: working on testing IDR as a possible metric for reproducibility
 * week 6-10: first online meeting and plan for tewari re-analysis next steps. Starting the first draft for mirtop paper.
 
 ## July 2018
