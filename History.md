@@ -1,3 +1,6 @@
+## September 2018
+
+* week 4-7: Support GFF3 from external tools that don't have UID specified.
 
 ## August 2018
 
