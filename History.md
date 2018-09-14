@@ -1,5 +1,6 @@
 ## September 2018
 
+* week 10-14: Studying the random isomiR generation in synthetic data.
 * week 4-7: Support GFF3 from external tools that don't have UID specified.
 
 ## August 2018
