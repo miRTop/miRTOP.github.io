@@ -1,5 +1,6 @@
 ## September 2018
 
+* week 17-21: Working on equimolar analysis to define the background noise. (https://github.com/miRTop/incubator/blob/master/projects/tewari_equimolar/commonality.md)
 * week 10-14: Studying the random isomiR generation in synthetic data.
 * week 4-7: Support GFF3 from external tools that don't have UID specified.
 
