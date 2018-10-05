@@ -1,3 +1,7 @@
+## October 2018
+
+* week 1-5: Sync the version of mirGFF3, mirtop revision paper. Comparing plasma vs equimolar: https://github.com/miRTop/incubator/blob/master/projects/tewari_equimolar/plasma_vs_equimolar.md.
+
 ## September 2018
 
 * week 24-28: New plots for the equimolar analysis to show the imporance of isomiRs found in the synthetic data.
