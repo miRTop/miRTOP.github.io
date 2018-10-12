@@ -1,5 +1,6 @@
 ## October 2018
 
+* week 8-12: Add gff3 to fasta. Analyze custom synthetic data from tewari set. Synthetic data analyzed by mirge2.0.
 * week 1-5: Sync the version of mirGFF3, mirtop revision paper. Comparing plasma vs equimolar: https://github.com/miRTop/incubator/blob/master/projects/tewari_equimolar/plasma_vs_equimolar.md.
 
 ## September 2018
