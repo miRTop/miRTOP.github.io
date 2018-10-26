@@ -1,5 +1,6 @@
 ## October 2018
 
+* week 22-26: Analyze Van Dijk data with spikeins to compare with current data. Update mirGFF3 definition for version 1.1.
 * week 15-19: Add mirge2.0 and custom tewari synthetic plots to equimolar analysis. Discussion about changing some ideas of the mirgff3 format.
 * week 8-12: Add gff3 to fasta. Analyze custom synthetic data from tewari set. Synthetic data analyzed by mirge2.0.
 * week 1-5: Sync the version of mirGFF3, mirtop revision paper. Comparing plasma vs equimolar: https://github.com/miRTop/incubator/blob/master/projects/tewari_equimolar/plasma_vs_equimolar.md.
