@@ -1,3 +1,7 @@
+## November 2018
+
+* week 29-2: more modification to the mirGFF3 to addition variants. Finishing paper figure.
+
 ## October 2018
 
 * week 22-26: Analyze Van Dijk data with spikeins to compare with current data. Update mirGFF3 definition for version 1.1.
