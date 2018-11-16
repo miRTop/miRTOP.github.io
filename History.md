@@ -1,5 +1,6 @@
 ## November 2018
 
+* week 12-16: design experiment for checking truncation events.
 * week 5-9: add new data set to the analysis, maybe not possible to share right now.
 * week 29-2: more modification to the mirGFF3 to addition variants. Finishing paper figure.
 
