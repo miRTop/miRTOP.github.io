@@ -1,5 +1,6 @@
 ## December 2018
 
+* week 10-15: working on paper tables and merging suggestion from authors.
 * week 2-7: talk at BIG meeting in Boston. https://bluejeans.com/s/h4CR2.
 
 ## November 2018
