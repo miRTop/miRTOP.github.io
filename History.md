@@ -1,3 +1,8 @@
+## January 2019
+
+* week 14-18: communication with Illumina to figure out a plan to sequence synthetic samples
+* week 21-25: working on script to design unique synthetic sequences
+
 ## December 2018
 
 * week 10-15: working on paper tables and merging suggestion from authors.
