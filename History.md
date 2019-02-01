@@ -1,5 +1,7 @@
 ## January 2019
 
+* week 28-1: adapt mirtop to read in chunk BAM files from precursor hits
+* week 21-25: start the draft to put all the meta-analysis together in a google docs
 * week 14-18: communication with Illumina to figure out a plan to sequence synthetic samples
 * week 21-25: working on script to design unique synthetic sequences
 
