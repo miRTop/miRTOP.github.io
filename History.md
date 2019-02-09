@@ -1,3 +1,7 @@
+## February 2019
+
+* week 4-8: adding new memebers. Supporting chunk files for seqbuster. Script to parse big gff3 files for simulator project.
+
 ## January 2019
 
 * week 28-1: adapt mirtop to read in chunk BAM files from precursor hits
