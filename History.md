@@ -1,5 +1,6 @@
 ## February 2019
 
+* week 18-22: improving mirtop to handle Manatee, exploring to work with sqlite instead of dicts.
 * week 11-15: improving mirtop to handle big bam with genomic positions. Start discussion about in person mirtop meeting.
 * week 4-8: adding new memebers. Supporting chunk files for seqbuster. Script to parse big gff3 files for simulator project.
 
