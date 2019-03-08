@@ -1,3 +1,7 @@
+## March 2019
+
+* week 4-8: work on tewari commonality for equimolar data. Starting visualization tool that uses GFF3 format.
+
 ## February 2019
 
 * week 25-1: work on optimir compatibility and sqlite method to analyze big files.
