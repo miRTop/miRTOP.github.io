@@ -1,5 +1,6 @@
 ## March 2019
 
+* week 18-22: resubmitting mirtop/mirgff3 paper and debuging scripts from simulation project.
 * week 11-15: working on isomir accuracy project to present to Bioinformatics club. Fixing some issues in mirtop API suit.
 * week 4-8: work on tewari commonality for equimolar data. Starting visualization tool that uses GFF3 format.
 
