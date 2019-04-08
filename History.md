@@ -1,3 +1,7 @@
+## April 2019
+
+* week 1-5: fix issue in mirtop affecting sequences that map in the same precursor, different positions. work on more figure to show difference between synthetic and biological samples.
+
 ## March 2019
 
 * week 25-29: preseting mirtop to BIMDC institute. Working on figure for all the data analyzed until now.
