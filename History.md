@@ -1,5 +1,6 @@
 ## April 2019
 
+* week 21-26: finishing tier2 of simulator analysis.
 * week 15-19: running tier2 of simulation project.
 * week 1-5: fix issue in mirtop affecting sequences that map in the same precursor, different positions. work on more figure to show difference between synthetic and biological samples.
 
