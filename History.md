@@ -1,3 +1,7 @@
+## May 2019
+
+* week 29Apr-2May: working on round 3 and round 4 of simulator project. First draft for Rshiny app to visualize isomiRs.
+
 ## April 2019
 
 * week 21-26: finishing tier2 of simulator analysis.
