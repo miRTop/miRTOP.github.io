@@ -1,5 +1,6 @@
 ## May 2019
 
+* week 20-24: complete simulation figures. Fix mirtop issue.
 * week 13-17: adding more tools to the simulation layers. Debug mirgff3_shiny to accept big files.
 * week 5-10: automatizing simulator analysis. adding color options to mirgff3-shiny.
 * week 29Apr-2May: working on round 3 and round 4 of simulator project. First draft for Rshiny app to visualize isomiRs.
