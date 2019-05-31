@@ -1,5 +1,6 @@
 ## May 2019
 
+* week 28-31: remove nonindels from simulated bam files.
 * week 20-24: complete simulation figures. Fix mirtop issue.
 * week 13-17: adding more tools to the simulation layers. Debug mirgff3_shiny to accept big files.
 * week 5-10: automatizing simulator analysis. adding color options to mirgff3-shiny.
