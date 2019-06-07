@@ -1,3 +1,10 @@
+## June 2019
+
+* week 3-7: 
+  * simulation: discussion about repeat all in a machine, add bwa + mirtop, add S0
+  * mirgff3_viz: discussion how to add deseq2 to the app
+  * isomir meta-analysis: touch bases with Ioannis to see next step of synthetic
+
 ## May 2019
 
 * week 28-31: remove nonindels from simulated bam files.
