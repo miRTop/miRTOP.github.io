@@ -1,5 +1,8 @@
 ## June 2019
 
+* week 16-21:
+  * isomir meta-analysis: starting getting data from last smrna kit comparison
+  * simulation: creating new environment in new computer system and re-analyze new dataset
 * week 3-7: 
   * simulation: discussion about repeat all in a machine, add bwa + mirtop, add S0
   * mirgff3_viz: discussion how to add deseq2 to the app
