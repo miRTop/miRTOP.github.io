@@ -1,5 +1,8 @@
 ## June 2019
 
+* week 23-28:
+  * isomir meta-analysis: create a new repository for the analysis, get all the samples trimmed for the next step
+  * simulation: move back to original cluster to normalize analysis and calculate resources
 * week 16-21:
   * isomir meta-analysis: starting getting data from last smrna kit comparison
   * simulation: creating new environment in new computer system and re-analyze new dataset
