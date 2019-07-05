@@ -1,6 +1,13 @@
+## July 2019
+
+* week 1-5:
+  * mirtop and mirgff3: revision of mirtop paper. Create new 1.2 version of format to add new headers. Optional genomic coordinates as output.
+  * simulation:  continueing with S2 and S3 rounds re-analysis
+  * isomir meta-analysis: get all samples trimmed by bcbio
+
 ## June 2019
 
-* week 23-28:
+* week 24-28:
   * isomir meta-analysis: create a new repository for the analysis, get all the samples trimmed for the next step
   * simulation: move back to original cluster to normalize analysis and calculate resources
 * week 16-21:
