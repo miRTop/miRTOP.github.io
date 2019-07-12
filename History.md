@@ -1,5 +1,8 @@
 ## July 2019
 
+* week 7-12:
+  * mirtop and mirgff3: final revisions and adapting the code and repository files to 1.2 version
+  * simulation: continueing with S4 and S5 rounds re-analysis
 * week 1-5:
   * mirtop and mirgff3: revision of mirtop paper. Create new 1.2 version of format to add new headers. Optional genomic coordinates as output.
   * simulation:  continueing with S2 and S3 rounds re-analysis
