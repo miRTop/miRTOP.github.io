@@ -1,5 +1,9 @@
 ## July 2019
 
+* week 14-19:
+  * mirtop and mirgff3: convert to Bioinformatics format and re-submit
+  * simulation: starting re-analysis monitoring resources
+  * isomir meta-analysis: cleaning mirxplor references to contain sequences with H distance of 5 or more
 * week 7-12:
   * mirtop and mirgff3: final revisions and adapting the code and repository files to 1.2 version
   * simulation: continueing with S4 and S5 rounds re-analysis
