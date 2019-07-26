@@ -1,5 +1,8 @@
 ## July 2019
 
+* week 21-26:
+  * simulation: working on re-analysis monitoring resources
+  * isomir meta-analysis:  running the 3 projects that use mirxplor data and re-analyze with bowtie
 * week 14-19:
   * mirtop and mirgff3: convert to Bioinformatics format and re-submit
   * simulation: starting re-analysis monitoring resources
