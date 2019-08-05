@@ -1,3 +1,9 @@
+## August 2019
+
+* week 01-05:
+ * simulation: working on script to parse the new naming.
+ * mirtop and mirgff3: working on developer team recruitment.
+ 
 ## July 2019
 
 * week 21-26:
