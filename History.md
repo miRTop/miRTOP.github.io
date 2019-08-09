@@ -1,8 +1,13 @@
 ## August 2019
 
+
+* week 04-09:
+  * simulation: analyzing S0/S1.
+  * isomir meta-analysis: getting new samples from other experiments
+
 * week 01-05:
- * simulation: working on script to parse the new naming.
- * mirtop and mirgff3: working on developer team recruitment.
+  * simulation: working on script to parse the new naming.
+  * mirtop and mirgff3: working on developer team recruitment.
  
 ## July 2019
 
