@@ -1,7 +1,11 @@
 ## August 2019
 
+* week 19-23:
+  * simulation: analyzing S3/S4 Manatee.
+  * isomir meta-analysis: adding the new samples for other studies to the results and normalizing trimming step.
+  * dev team: assign projects to Arun (sql and Rshiny) and Florian (mirtop).
 
-* week 04-09:
+* week 12-16:
   * simulation: analyzing S0/S1.
   * isomir meta-analysis: getting new samples from other experiments
 
