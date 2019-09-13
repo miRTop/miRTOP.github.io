@@ -1,3 +1,10 @@
+## September 2019
+
+* week 9-13:
+ * simulation: finish figures with all results and create table.
+ * dev team: first integration of the SQL feature.
+ * isomir meta-analysis: add fratta data. Backup all in S3.
+
 ## August 2019
 
 * week 19-23:
