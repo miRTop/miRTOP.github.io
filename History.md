@@ -1,9 +1,13 @@
 ## September 2019
 
+* week 16-20:
+  * dev team: review integration of the SQL feature.
+  * isomir meta-analysis: Finish all backup in aws S3.
+
 * week 9-13:
- * simulation: finish figures with all results and create table.
- * dev team: first integration of the SQL feature.
- * isomir meta-analysis: add fratta data. Backup all in S3.
+  * simulation: finish figures with all results and create table.
+  * dev team: first integration of the SQL feature.
+  * isomir meta-analysis: add fratta data. Backup all in S3.
 
 ## August 2019
 
