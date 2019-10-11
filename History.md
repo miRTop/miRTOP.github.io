@@ -1,3 +1,9 @@
+## October 2019
+
+* week 7-11:
+  * dev team: fixing bug in stat function, adapting sql command to mirtop
+  * organizing team: adding intro to mirtop page
+  
 ## September 2019
 
 * week 16-20:
