@@ -1,5 +1,8 @@
 ## October 2019
 
+* week 14-18:
+  * organizing team: adding new organizers to the web.
+  
 * week 7-11:
   * dev team: fixing bug in stat function, adapting sql command to mirtop
   * organizing team: adding intro to mirtop page
