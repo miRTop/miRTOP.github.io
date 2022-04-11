@@ -72,5 +72,5 @@ Future projects and discussions:
 *   Sinan Uğur Umu PhD. Department of Research, Cancer Registry of Norway, Oslo, Norway.
 *   Shruthi Bandyadka. Partners Personalized Medicine, Cambridge MA.
 *   Xavier Bofill, National Cancer Institute (NCI).
-*   Marc R. Friedländer5, Science for Life Laboratory, Department of Molecular Biosciences, The Wenner-Gren Institute, Stockholm University, Stockholm, Sweden.<\li>
+*   Marc R. Friedländer, Science for Life Laboratory, Department of Molecular Biosciences, The Wenner-Gren Institute, Stockholm University, Stockholm, Sweden.
 *   Florian Thibord, Phd student. INSERM UMR_S 1219, Bordeaux Population Health Research Center, University of Bordeaux, Bordeaux, France
